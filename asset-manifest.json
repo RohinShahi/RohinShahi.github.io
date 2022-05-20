@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RohinShahi.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/RohinShahi.github.io/static/js/main.9a814a66.js",
-    "static/js/787.28cb0dcd.chunk.js": "/RohinShahi.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/RohinShahi.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/RohinShahi.github.io/index.html",
-    "main.073c9b0a.css.map": "/RohinShahi.github.io/static/css/main.073c9b0a.css.map",
-    "main.9a814a66.js.map": "/RohinShahi.github.io/static/js/main.9a814a66.js.map",
-    "787.28cb0dcd.chunk.js.map": "/RohinShahi.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.46258e0c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.46258e0c.js.map": "/static/js/main.46258e0c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9a814a66.js"
+    "static/js/main.46258e0c.js"
   ]
 }
